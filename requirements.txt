@@ -1,0 +1,8 @@
+django
+djangorestframework
+langchain
+sentence_transformers
+unstructured
+openai
+pgvector
+psycopg[binary]
