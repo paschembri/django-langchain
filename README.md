@@ -39,6 +39,12 @@ Never ending todo :
 
 ## Quickstart
 
+### Install
+
+```shell
+pip install django-langchain
+```
+
 ### Using the admin site
 
 1. Store a file in `SourceDocument` model
