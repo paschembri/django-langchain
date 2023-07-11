@@ -18,7 +18,7 @@ class SourceDocumentAdmin(admin.ModelAdmin):
 
 
 class DocumentChunkAdmin(admin.ModelAdmin):
-    exclude = ["embeddings"]
+    exclude = ["embedding", "index"]
     search_fields = ["page_content"]
 
     def get_search_results(self, request, queryset, search_term):
