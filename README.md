@@ -44,11 +44,11 @@ Never ending todo :
 1. Store a file in `SourceDocument` model
 2. Perform the admin action `Parse and index file`
 
-![](django-langchain/docs/assets/parse-and-index.jpg)
+![](docs/assets/parse-and-index.jpg)
 
 3. Check for `DocumentChunk` instances
 
-![](django-langchain/docs/assets/documentchunk-instances.jpg)
+![](docs/assets/documentchunk-instances.jpg)
 
 4. Perform a similarity search using Django's admin built-in search (returns 5 most relevant results)
 
