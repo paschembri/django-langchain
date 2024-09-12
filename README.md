@@ -1,5 +1,12 @@
 # Django Langchain
 
+**EDIT - 2024/09**
+
+**This project is no longer maintained.**
+
+**If you need the ownership of the pypi package [django-langchain](https://pypi.org/project/django-langchain/), please open an issue.**
+
+
 ## What's this ?
 
 This package aims to provide integration between LangChain and Django.
